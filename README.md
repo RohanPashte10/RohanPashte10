@@ -1,110 +1,67 @@
-# 👋 Hi, I'm Rohan Baban Pashte
+# 👋 Hi, I'm Rohan Pashte
 
-### 💻 MCA Student | Software Developer | Web Development Enthusiast
+### 🎓 MCA Student | 🎓 BSc IT Graduate | 💻 Aspiring Full-Stack Developer | 🌐 Web & Software Development
 
-I'm an MCA student and BSc IT graduate passionate about **software development, web technologies, and building practical solutions**.
+> **Learn • Build • Improve • Grow 🚀**
 
-I enjoy turning ideas into functional applications, learning new technologies, and continuously improving my development skills.
-
----
-
-## 🚀 About Me
-
-- 🎓 Currently pursuing **Master of Computer Applications (MCA)**
-- 🎓 BSc IT Graduate
-- 💻 Interested in **Software Development & Web Development**
-- 🌱 Currently learning and improving my **Java, Python, Web Development & Backend Development** skills
-- 🔨 Building practical projects to solve real-world problems
-- 📚 Always interested in learning new technologies
-- 🎯 Goal: Grow as a software professional and build impactful technology solutions
+I'm an MCA student and BSc IT graduate passionate about **software development and web technologies**. I enjoy building practical projects, solving real-world problems, and continuously learning new technologies.
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-### 💻 Programming
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+🎓 Currently pursuing **Master of Computer Applications (MCA)**
 
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+💻 Aspiring to become a **Full-Stack Developer**
 
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+🌐 Interested in **Web Development & Software Development**
 
-### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+🔨 I enjoy turning ideas into **practical applications**
+
+📚 Currently improving my programming and development skills
+
+🎯 Goal: **Build useful software and grow as a professional developer**
 
 ---
 
-## 🌟 Featured Projects
+## 🛠️ Technologies & Tools
 
-### 🚍 MahaPass — Smart Bus Pass Management System
+**Programming**
 
-A web-based system designed as a proposed solution for improving the student bus pass application and management process.
+`C` `C++` `Java` `Python`
 
-**Tech:** Python • Flask • MySQL • HTML • CSS • JavaScript • Bootstrap
+**Web Development**
 
-**Key Features:**
-- 📝 Online bus pass application
-- 📄 Document verification
-- ✅ Approval & rejection workflow
-- 💳 Pass fee management
-- 🎫 Digital bus pass generation
-- 🔄 Pass renewal
-- 📱 QR-based pass verification
-- 📊 Dashboard for monitoring applications
+`HTML` `CSS` `JavaScript` `Bootstrap` `Flask`
 
----
+**Database**
 
-### 🎓 AI-Powered College Placement Management System
+`MySQL` `SQL`
 
-A web-based platform designed to simplify and organize college placement activities while providing career assistance to students.
+**Tools**
 
-**Focus Areas:**
-- Student placement management
-- Job & company information
-- Placement tracking
-- Career assistance
-- AI-powered features
+`Git` `GitHub` `Canva`
 
 ---
 
-### 👨‍🎓 Student Record Management System
+---
 
-A student management application developed across different technologies during my academic journey.
+## 🎯 2026 Goals
 
-**Technologies:** C • C++ • Python • Tkinter • MySQL
+* 🚀 Improve Full-Stack Development skills
+* ☕ Strengthen Java & Python
+* 🌐 Build more real-world web applications
+* 💼 Prepare for software development opportunities
 
 ---
 
-## 🏆 Achievements
+## 🤝 Let's Connect
 
-🥇 **1st Rank** — State Level Quiz-IT Competition, TechFest-2K26
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/rohanpashte10)
 
-🥉 **3rd Rank** — State Level Tech Carnival 2K26
-
-🥈 **2nd Place** — CodeKartiki Online Web Development Competition 2025
 
 ---
 
-## 📚 Currently Learning
+### ⭐ Thanks for visiting my profile!
 
-```text
-Java & Advanced Java
-        ↓
-Backend Development
-        ↓
-Web Application Development
-        ↓
-Deployment & Hosting
-        ↓
-Software Development
+**I'm always learning, building, and improving. 🚀**
