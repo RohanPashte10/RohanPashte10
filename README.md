@@ -37,30 +37,6 @@ I'm an MCA student and BSc IT graduate passionate about **software development a
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
 
 ---
-
-## 👨‍💻 About Me
-
-🎓 Currently pursuing **Master of Computer Applications (MCA)**
-
-💻 Aspiring to become a **Full-Stack Developer**
-
-🌐 Interested in **Web Development & Software Development**
-
-🔨 I enjoy turning ideas into **practical applications**
-
-📚 Currently improving my programming and development skills
-
-🎯 Goal: **Build useful software and grow as a professional developer**
-
----
-
-## 🎯 2026 Goals
-
-* 🚀 Improve Full-Stack Development skills
-* ☕ Strengthen Java & Python
-* 🌐 Build more real-world web applications
-* 💼 Prepare for software development opportunities
-
 ---
 
 ## 🤝 Let's Connect
